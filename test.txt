@@ -1,6 +1,0 @@
-hello world
-hello JavaScript
-hello html and css
-hello TypeScript222
-how are you?
-new_branch
