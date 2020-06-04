@@ -1,5 +1,6 @@
 const obj = {
   name: 'zhangsan',
-  age: 18,
-  height: 173
+  age: 12,
+  height: 178,
+  car: 'hh'
 }
