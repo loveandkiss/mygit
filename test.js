@@ -8,6 +8,6 @@ const obj = {
     color: 'yellow'
   },
   cat: {
-    name: 'huahua'
+    name: 'xiaoming'
   }
 }
