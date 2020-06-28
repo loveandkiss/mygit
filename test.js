@@ -6,5 +6,8 @@ const obj = {
     name: '兰博基尼',
     age: 5,
     color: 'yellow'
+  },
+  cat: {
+    name: 'huahua'
   }
 }
