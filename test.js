@@ -7,7 +7,7 @@ const obj = {
     age: 5,
     color: 'yellow'
   },
-  cat: {
-    name: 'xiaoming'
-  }
+  // cat: {
+  //   name: 'xiaoming'
+  // }
 }
