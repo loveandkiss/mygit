@@ -5,7 +5,8 @@ const obj = {
   car: {
     name: '兰博基尼',
     age: 5,
-    color: 'yellow'
+    color: 'yellow',
+    price: '$50000'
   },
   // cat: {
   //   name: 'xiaoming'
